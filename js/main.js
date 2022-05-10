@@ -73,9 +73,6 @@ ScrollReveal({
   #artists .card
   #tattos,
   #tattos header,
-  #tattos .gallery,
-  #tattos .gallery-items,
-  #tattos img,
   #about, 
   #about header, 
   #about .content,

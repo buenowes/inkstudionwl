@@ -34,7 +34,7 @@ body {
 }
 
 body {
-  font-family: 'DM Sans';
+  font-family: 'Fauna One', serif;
   font-size: 1.6rem;
 
   text-align: center;
@@ -63,7 +63,7 @@ section {
 }
 
 section header h4 {
-  font-size: 1.4rem;
+  font-size: 2rem;
   font-weight: 700;
   line-height: 150%;
   letter-spacing: 0.08rem;
@@ -365,7 +365,8 @@ body.menu-expanded h3 {
 #home .stat p {
   margin: 0;
   color: var(--primary-color);
-  font-size: 1.6rem;
+  font-weight: bold;
+  font-size: 2rem;
   line-height: 150%;
 }
 
